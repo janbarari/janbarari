@@ -1,6 +1,7 @@
-<h1 align="center">Hey 👋, I'm Mehdi</h1>
-<p align="center">Android Engineer with more than 6 years of track record in building mobile products to enter new markets and scale to various countries across the globe.
+<h1 align="left">Hey 👋, I'm Mehdi</h1>
+<p align="left">Android Engineer with more than 6 years of track record in building mobile products to enter new markets and scale to various countries across the globe.
 Strong passion for creating user-centric products by considering the limitations and capabilities of software implementation.</p>
+  
 
 - 💬 Ask me about **Kotlin, Android, Java, Software Architecture, Design patterns, Algorithm optimization**
 
