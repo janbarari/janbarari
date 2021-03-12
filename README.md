@@ -1,7 +1,3 @@
-### Welcome to My Github Profile
-
-You can contact me via mehdi.janbarari@outlook.com (I'm available in most times)
-
 <h1 align="center">Hey 👋, I'm Mehdi</h1>
 <h3 align="center">Android Engineer with more than 6 years of track record in building mobile products to enter new markets and scale to various countries across the globe.
 Strong passion for creating user-centric products by considering the limitations and capabilities of software implementation.</h3>
