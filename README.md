@@ -15,7 +15,7 @@ Strong passion for creating user-centric products by considering the limitations
 </p>
 
 <p>
-   <h2>Visitor count</h2>
+<p><strong>Visitor count</strong></p>
    <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
   
