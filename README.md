@@ -14,8 +14,8 @@ Strong passion for creating user-centric products by considering the limitations
 <a href="https://stackoverflow.com/users/8607069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9023032" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-   <code>Visitor count</code>
+<p>
+   <h2>Visitor count</h2>
    <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
   
