@@ -13,7 +13,6 @@ Strong passion for creating user-centric products by considering the limitations
 <a href="https://linkedin.com/in/mehdijanbarari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hessam-emami" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8607069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9023032" height="30" width="40" /></a>
 </p>
-<br/>
 
 <h3 align="left">My Featured Repositories:</h3>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight toold for getting the image text content</a>
@@ -21,9 +20,9 @@ Strong passion for creating user-centric products by considering the limitations
 <a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility pattern</a>
 <br/>
 <a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank">Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
-
-
 <br/>
+<br/>
+
 <p><strong>Visitor count</strong><br/>
 <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
