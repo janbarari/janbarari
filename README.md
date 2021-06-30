@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">My Featured Repositories:</h3>
-<a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight toold for getting the image text content</a>
+<a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight tool for getting the image text content</a>
 <br/>
 <a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility design pattern</a>
 <br/>
