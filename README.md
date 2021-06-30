@@ -22,6 +22,7 @@
 <br/>
 <a href="https://github.com/janbarari/KEvent" target="_blank">KEvent - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
 <br/>
+<a href="https://github.com/janbarari/GenericRecyclerView">GenericRecyclerView - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
 <br/>
 
 <p><strong>Visitor count</strong><br/>
