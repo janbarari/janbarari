@@ -16,7 +16,9 @@
 <h3 align="left">My Featured Repositories:</h3>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight toold for getting the image text content</a>
 <br/>
-<a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility pattern</a>
+<a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility design pattern</a>
+<br/>
+<a href="https://github.com/janbarari/DecoratorPattern" target="_blank>Dive into decorator design pattern</a>
 <br/>
 <a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank">GradleBuildTimeTracker - Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
 <br/>
