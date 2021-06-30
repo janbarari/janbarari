@@ -14,19 +14,19 @@ Strong passion for creating user-centric products by considering the limitations
 <a href="https://stackoverflow.com/users/8607069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9023032" height="30" width="40" /></a>
 </p>
 
-<br/>
-<p><strong>Visitor count</strong><br/>
-<img src="https://profile-counter.glitch.me/janbarari/count.svg" />
-</p>
-   
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" /></p>
-
 <h3 align="left">My Featured Repositories:</h3>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight toold for getting the image text content</a>
 <br/>
 <a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility pattern</a>
 <br/>
 <a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank">Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
+
+
+<br/>
+<p><strong>Visitor count</strong><br/>
+<img src="https://profile-counter.glitch.me/janbarari/count.svg" />
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" /></p>
