@@ -24,7 +24,7 @@
 <br/>
 <a href="https://github.com/janbarari/GenericRecyclerView">GenericRecyclerView - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
 <br/>
-<a href="https://github.com/janbarari/JupiterSlider">JupiterSlider - An awesome auto slider[Built in Java]</a>
+<a href="https://github.com/janbarari/JupiterSlider">JupiterSlider - An awesome auto slider</a>
 <br/>
 
 <br/>
