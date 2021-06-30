@@ -3,7 +3,7 @@
 Strong passion for creating user-centric products by considering the limitations and capabilities of software implementation.</p>
   
 
-- 💬 Ask me about **Kotlin, Android, Java, Software Architecture, Design patterns, Algorithm & Data Structure**
+- 💬 Ask me about **Kotlin, Android, Java, Refactoring, Software Architecture, Design patterns, Algorithm & Data Structure**
 
 - 📫 You can reach me via **mehdi.janbarari@outlook.com**
 
