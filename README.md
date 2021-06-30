@@ -24,5 +24,7 @@ Strong passion for creating user-centric products by considering the limitations
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" /></p>
 
-<h2>My Featured Repositories</h2>
+<h3 align="left">My Featured Repositories:</h3>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight toold for getting the image text content</a>
+<a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility pattern</a>
+<a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank">Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
