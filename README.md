@@ -23,3 +23,6 @@ Strong passion for creating user-centric products by considering the limitations
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" /></p>
+
+<h2>My Featured Repositories</h2>
+<a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight toold for getting the image text content</a>
