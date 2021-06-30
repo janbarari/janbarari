@@ -36,4 +36,4 @@
 
 <img style="margin-top: 50px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" />
 
-<p>&nbsp;<img style="margin-top: 50px;" align="center" src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" /></p>
+<img style="margin-top: 50px;" align="center" src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" />
