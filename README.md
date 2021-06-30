@@ -38,9 +38,9 @@
   <div class="col">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" />
   </div>
+  <br/>
   <div class="col">
       <img src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" />
-
   </div>
 </div>
 
