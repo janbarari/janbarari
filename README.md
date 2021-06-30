@@ -36,10 +36,10 @@
 
 <div class="row">
   <div class="col">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" />
   </div>
   <div class="col">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" />
+      <img src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" />
 
   </div>
 </div>
