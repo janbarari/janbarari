@@ -1,6 +1,5 @@
 <h1 align="left">Hey 👋, I'm Mehdi</h1>
-<p align="left">Android Engineer with more than 7 years of track record in building mobile products to enter new markets and scale to various countries across the globe.
-Strong passion for creating user-centric products by considering the limitations and capabilities of software implementation.</p>
+<p align="left">Experienced Android developer with more than 7 years of track records in building mobile applications, skilled in Kotlin, Java, RxJava, Coroutines, Design Patterns, OOP, SOLID, Clean Code, Material Design, Android SDK, Android Architecture Components, MVP, MVVM, MVI, Android Jetpack Libraries, Third-party Libraries, Scrum, Git, and a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result.</p>
   
 
 - 💬 Ask me about **Kotlin, Android, Java, Refactoring, Software Architecture, Design patterns, Algorithm & Data Structure**
