@@ -18,7 +18,8 @@
 <br/>
 <a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility pattern</a>
 <br/>
-<a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank">Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
+<a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank">GradleBuildTimeTracker - Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
+<a href="https://github.com/janbarari/KEvent" target="_blank">KEvent - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
 <br/>
 <br/>
 
