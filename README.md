@@ -6,6 +6,7 @@
 
 - 📫 You can reach me via **mehdi.janbarari@outlook.com**
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehdijanbarari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
@@ -14,6 +15,7 @@
 <a href="https://instagram.com/codingwithmehdi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
 </p>
 
+<br/>
 <h3 align="left">My Featured Repositories:</h3>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight tool for getting the image text content</a>
 <br/>
@@ -35,6 +37,7 @@
 <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
 
+<br/>
 <p><strong><h3>Statics</h3></strong>
 <div class="row">
   <div class="col">
