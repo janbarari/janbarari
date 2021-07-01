@@ -35,6 +35,7 @@
 <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
 
+<p><strong><h3>Statics</h3></strong>
 <div class="row">
   <div class="col">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" />
