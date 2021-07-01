@@ -31,7 +31,7 @@
 <br/>
 
 <br/>
-<p><strong>Visitor count</strong><br/>
+<p><strong><h3>Visitor count</h3></strong><br/>
 <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
 
