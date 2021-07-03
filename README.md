@@ -17,13 +17,13 @@
 
 <br/>
 <h3 align="left">My Featured Repositories:</h3>
-<a href="https://github.com/janbarari/android-cloud-ocr" target="_blank">Android Cloud OCR - A Lightweight tool for getting the image text content</a>
+<a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
 <br/>
-<a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank">GradleBuildTimeTracker - Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
+<a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank"><strong>Gradle Build Time Tracker</strong> - Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
 <br/>
-<a href="https://github.com/janbarari/KEvent" target="_blank">KEvent - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
+<a href="https://github.com/janbarari/KEvent" target="_blank"><strong>KEvent</strong> - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
 <br/>
-<a href="https://github.com/janbarari/GenericRecyclerView">GenericRecyclerView - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
+  <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic Recyclerview</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
 <br/>
 <a href="https://github.com/janbarari/JupiterSlider">JupiterSlider - An awesome auto slider</a>
 <br/>
