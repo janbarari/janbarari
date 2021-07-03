@@ -23,7 +23,7 @@
 <br/>
 <a href="https://github.com/janbarari/KEvent" target="_blank"><strong>KEvent</strong> - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
 <br/>
-  <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic Recyclerview</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
+  <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic RecyclerView</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
 <br/>
 <a href="https://github.com/janbarari/JupiterSlider"><strong>Jupiter Slider</strong> - An awesome auto slider</a>
 <br/>
