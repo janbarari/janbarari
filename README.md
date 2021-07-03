@@ -29,7 +29,7 @@
 <br/>
 <a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into chain of responsibility design pattern</a>
 <br/>
-<a href="https://github.com/janbarari/DecoratorPattern" target="_blank">Dive into decorator design pattern</a>
+<a href="https://github.com/janbarari/DecoratorPattern" target="_blank">Dive into <strong>decorator design pattern</strong></a>
 <br/>
 <a href="https://github.com/janbarari/PipelinePattern" target="_blank">Dive into pipeline design pattern</a>
 <br/>
