@@ -31,6 +31,8 @@
 <br/>
 <a href="https://github.com/janbarari/DecoratorPattern" target="_blank">Dive into decorator design pattern</a>
 <br/>
+<a href="https://github.com/janbarari/PipelinePattern" target="_blank">Dive into pipeline design pattern</a>
+<br/>
 
 <br/>
 <p><strong><h3>Visitor count</h3></strong>
