@@ -27,11 +27,11 @@
 <br/>
 <a href="https://github.com/janbarari/JupiterSlider">JupiterSlider - An awesome auto slider</a>
 <br/>
-<a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into <strong>Chain of responsibility design pattern</strong></a>
+<a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into <strong>Chain of responsibility</strong> design pattern</a>
 <br/>
-<a href="https://github.com/janbarari/DecoratorPattern" target="_blank">Dive into <strong>Decorator design pattern</strong></a>
+<a href="https://github.com/janbarari/DecoratorPattern" target="_blank">Dive into <strong>Decorator</strong> design pattern</a>
 <br/>
-<a href="https://github.com/janbarari/PipelinePattern" target="_blank">Dive into <strong>Pipeline design pattern</strong></a>
+<a href="https://github.com/janbarari/PipelinePattern" target="_blank">Dive into <strong>Pipeline</strong> design pattern</a>
 <br/>
 
 <br/>
