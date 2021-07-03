@@ -25,7 +25,7 @@
 <br/>
   <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic Recyclerview</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
 <br/>
-<a href="https://github.com/janbarari/JupiterSlider">JupiterSlider - An awesome auto slider</a>
+<a href="https://github.com/janbarari/JupiterSlider"><strong>Jupiter Slider</strong> - An awesome auto slider</a>
 <br/>
 <a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into <strong>Chain of responsibility</strong> design pattern</a>
 <br/>
