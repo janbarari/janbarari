@@ -2,7 +2,7 @@
 <p align="left">Experienced Android developer with more than 8 years of track records in building mobile applications, skilled in Kotlin, Java, RxJava, Coroutines, Design Patterns, OOP, SOLID, Clean Code, Material Design, Android SDK, Android Architecture Components, MVP, MVVM, MVI, Android Jetpack Libraries, Third-party Libraries, Scrum, Git, and a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result.</p>
   
 
-- 😍 Featured Skills **Kotlin, Android, Java, Refactoring, Software Architecture, Design patterns, Algorithm & Data Structure**
+- 😍 Featured Skills **Kotlin, Android, Java, Refactoring, Software Architecture, Design patterns, Softskills, Algorithm & Data Structure**
 
 - 📫 You can reach me via **mehdi.janbarari@outlook.com**
 
