@@ -36,7 +36,7 @@
 <br/>
 
 <br/>
-<p><strong><h3>Visitor count</h3></strong>
+<p><strong><h3>Github Visitor Count</h3></strong>
 <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
 
