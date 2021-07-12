@@ -17,6 +17,8 @@
 
 <br/>
 <h3 align="left">My Featured Repositories:</h3>
+<a href="https://github.com/janbarari/datastructures_and_algorithms" target="_blank"><strong>Data Structures & Algorithms</strong> - Dive into time complexity, space complexity, Big O notation, data structures & algorithms</a>
+<br/>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
 <br/>
 <a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank"><strong>Gradle Build Time Tracker</strong> - Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
