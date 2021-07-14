@@ -7,7 +7,7 @@
 - 📫 You can reach me via **mehdi.janbarari@outlook.com**
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 </p>
 
 <br/>
-<h3 align="left">My Featured Repositories:</h3>
+<h3 align="left">My Featured Repositories</h3>
 <a href="https://github.com/janbarari/datastructures_and_algorithms" target="_blank"><strong>Data Structures & Algorithms</strong> - Dive into time complexity, space complexity, Big O notation, data structures & algorithms</a>
 <br/>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
