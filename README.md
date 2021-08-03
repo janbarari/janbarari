@@ -1,11 +1,11 @@
 <h1 align="left">Hey 👋, I'm Mehdi</h1>
-<p align="left">An experienced Android developer with more than 8 years of track records in building mobile applications, skilled in Kotlin, Java, RxJava, DI, Coroutines, CI/CD, Flow, Unit Test, UI Test, Design Patterns, OOP, SOLID, Clean Code, Material Design, Android SDK, Gralde,  Android Architecture Components, MVP, MVVM, MVI, Android Jetpack Libraries, Thirdparty Libraries, Scrum, Git and a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result. </p>
+<p align="left">An experienced Android developer with more than 8 years of track records in building mobile applications, skilled in Kotlin, Java, RxJava, DI, Coroutines, CI/CD, Flow, Unit Test, UI Test, Design Patterns, OOP, SOLID, Clean Code, Material Design, Android SDK, Gradl,  Android Architecture Components, MVP, MVVM, MVI, Android Jetpack Libraries, Thirdparty Libraries, Scrum, Git and a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result. </p>
   
 - Currently I am available for hiring & interview
 
 - Featured Skills **Kotlin, Android, Java, Refactoring, Architecture, Design patterns, Softskills, Algorithms, Data Structures**
 
-- 📫 You can reach me via **mehdi.janbarari@outlook.com**
+- 📫 You can contact with me via **mehdi.janbarari@outlook.com**
 
 <br/>
 <h3 align="left">Connect with me</h3>
