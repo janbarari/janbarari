@@ -13,6 +13,7 @@ Familiar with Gradle build system process flow, create tasks, and build custom r
 And trying to be a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result.
 </p>
   
+  
 - Currently I am available for hiring & interview
 
 - Featured Skills **Kotlin, Android, Java, Refactoring, Architecture, Design patterns, Softskills, Algorithms, Data Structures**
