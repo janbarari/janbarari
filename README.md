@@ -2,7 +2,6 @@
 <p align="left">Experienced Android developer with more than 8 years professionally of track record in building mobile applications.
 And trying to be a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result.
 </p>
-<br/>
 
 - Currently I am available for hiring & interview
 
