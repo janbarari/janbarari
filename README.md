@@ -19,9 +19,7 @@ And trying to be a good remote team player with the knowledge of teamwork and ho
 </p>
 
 <br/>
-<h3 align="left">My Featured Repositories</h3>
-<a href="https://github.com/janbarari/datastructures_and_algorithms" target="_blank"><strong>Data Structures & Algorithms</strong> - Dive into time complexity, space complexity, Big O notation, data structures & algorithms</a>
-<br/>
+<h3 align="left">My Favorite Repositories</h3>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
 <br/>
 <a href="https://github.com/janbarari/GradleBuildTimeTracker" target="_blank"><strong>Gradle Build Time Tracker</strong> - Plugin for track how much time the project[android studio, Intellij] spent on gradle process</a>
@@ -31,13 +29,6 @@ And trying to be a good remote team player with the knowledge of teamwork and ho
   <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic RecyclerView</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
 <br/>
 <a href="https://github.com/janbarari/JupiterSlider"><strong>Jupiter Slider</strong> - An awesome auto slider</a>
-<br/>
-<a href="https://github.com/janbarari/ChainOfResponsibilityPattern" target="_blank">Dive into <strong>Chain of responsibility</strong> design pattern</a>
-<br/>
-<a href="https://github.com/janbarari/DecoratorPattern" target="_blank">Dive into <strong>Decorator</strong> design pattern</a>
-<br/>
-<a href="https://github.com/janbarari/PipelinePattern" target="_blank">Dive into <strong>Pipeline</strong> design pattern</a>
-<br/>
 
 <br/>
 <p><strong><h3>Github Visitor Count</h3></strong>
