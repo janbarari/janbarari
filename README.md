@@ -1,13 +1,5 @@
 <h1 align="left">Hey 👋, I'm Mehdi</h1>
-<p align="left">Experienced Android developer with more than 8 years professionally of track record in building mobile applications. skilled in
-
-DataStrucures & Algorithms, Kotlin, Object Oriented Programming(OOP), Design Patterns & SOLID Principles, Clean code, Clean architecture, MVVM, MVI, MVP, Modularity & Microservice, RestAPI, OCR, UI/UX Concepts
-
-Android Components Lifecycle, Navigation Components, Work Manager, Jetpack Compose, ViewModel, LiveData, Room, CustomView, Material Design, Retrofit, OkHttp, RxJava, Coroutines, Flow, DataSource, Background & Foreground Services, Beacons, Bluetooth & Sensors, Detekt
-
-Hilt, Koin
-Familiar to build distributing cicd pipeline in Circle CI/Gitlab CI
-Familiar with Gradle build system
+<p align="left">Experienced Android developer with more than 8 years professionally of track record in building mobile applications.
 And trying to be a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result.
 </p>
 <br/>
