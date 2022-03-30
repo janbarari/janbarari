@@ -15,8 +15,6 @@ And trying to be a good remote team player with the knowledge of teamwork and ho
 <a href="https://twitter.com/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8607069" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  height="30" width="40" /></a>
-<a href="https://wa.me/989383083977" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg"  height="30" width="40" /></a>
-</p>
 
 <br/>
 <h3 align="left">My Favorite Repositories</h3>
