@@ -3,13 +3,8 @@
 And trying to be a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result.
 </p>
 
-- Currently I am available for hiring & interview
+📫 Reach me via **mehdi.janbarari@outlook.com**
 
-- Featured Skills **Kotlin, Android, Java, Refactoring, Architecture, Design patterns, Softskills, Algorithms, Data Structures**
-
-- 📫 You can contact with me via **mehdi.janbarari@outlook.com**
-
-<br/>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
