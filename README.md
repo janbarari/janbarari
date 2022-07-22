@@ -9,6 +9,7 @@ And trying to be a good remote team player with the knowledge of teamwork and ho
 <p align="left">
 <a href="https://linkedin.com/in/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8607069" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  height="30" width="40" /></a>
+<a href="https://twitter.com/medicodroid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="40" /></a>
 
 <br/>
 <h3 align="left">My Favorite Repositories</h3>
@@ -25,13 +26,8 @@ And trying to be a good remote team player with the knowledge of teamwork and ho
 <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
 
-<br/>
-<p><strong><h3>Statics</h3></strong>
+<p><strong><h3>Stats</h3></strong>
 <div class="row">
-  <div class="col">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janbarari&show_icons=true&locale=en&layout=compact" alt="mehdi-janbarari" />
-  </div>
-  <br/>
   <div class="col">
       <img src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" />
   </div>
