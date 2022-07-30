@@ -3,7 +3,7 @@
 And trying to be a good remote team player with the knowledge of teamwork and how to integrate into teams to achieve a greater result.
 </p>
 
-📫 Reach me via **mehdi.janbarari@outlook.com**
+📫 Reach me via **mehdimjt@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
