@@ -6,7 +6,7 @@ Till now I create and released many tools and libraries for developers as an ope
 I have very good knowledge of the Gradle build system to create efficient modular structures, custom plugins, and tasks.
 </p>
 
-📫 Reach me via **mehdimjt@gmail.com**
+📫 Reach me via **mehdi.janbarari@outlook.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
