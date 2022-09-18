@@ -15,7 +15,7 @@ I have very good knowledge of the Gradle build system to create efficient modula
 
 <br/>
 <h3 align="left">My Favorite Repositories</h3>
-<a href="https://github.com/janbarari/gradle-analytics-plugin" target="_blank"><strong>Gradle Analytics Plugin</strong> - A free Gradle plugin for analytics of your project builds. It provides unique visual and text metrics in HTML format that help the project leads and developers measure and track the projects built by Gradle, like Android projects, etc.</a>
+<a href="https://github.com/janbarari/gradle-analytics-plugin" target="_blank"><strong>Gradle Analytics Plugin</strong> - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.</a>
 
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
 <br/>
