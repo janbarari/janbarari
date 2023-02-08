@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm Mehdi</h1>
+<h1 align="left">Hey 👋, I'm Miles</h1>
 <p align="left">Creating scalable, maintainable android apps is always my interest. I have more than 8 years of experience in this industry, worked in various companies with different team sizes, and created many apps such as Parental Control App, Map Area Calculator App, VOD App, and Shopping App.
 
 Till now I create and released many tools and libraries for developers as an open-source project.
@@ -32,7 +32,7 @@ I have very good knowledge of the Gradle build system to create efficient modula
 <p><strong><h3>Stats</h3></strong>
 <div class="row">
   <div class="col">
-      <img src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" alt="mehdi-janbarari" />
+      <img src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" />
   </div>
 </div>
 
