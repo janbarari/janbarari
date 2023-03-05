@@ -15,7 +15,8 @@ In addition, working as a team member and interacting with colleagues is one of 
 <a href="https://linkedin.com/in/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 
 <br/>
-<h3 align="left">My Favorite Repositories</h3>
+<br/>
+<h3 align="left">Favorite Repositories</h3>
 <a href="https://github.com/janbarari/gradle-analytics-plugin" target="_blank"><strong>Gradle Analytics Plugin</strong> - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.</a>
 
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
@@ -25,6 +26,10 @@ In addition, working as a team member and interacting with colleagues is one of 
   <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic RecyclerView</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
 <br/>
 <a href="https://github.com/janbarari/JupiterSlider"><strong>Jupiter Slider</strong> - An awesome auto slider</a>
+
+<br/>
+<h3 aligh="left">Articles</h3>
+<a href="https://medium.com/@janbarari/introducing-decoupled-mvi-approach-for-android-in-2023-b93e4a16fb1b">Introducing decoupled MVI approach for Android in 2023</a>
 
 <br/>
 <p><strong><h3>Github Visitor Count</h3></strong>
