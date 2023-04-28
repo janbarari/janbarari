@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋, I'm Mehdi</h1>
-<p align="left">I’m an Android Engineer with over 8 years of experience. I have almost all the knowledge of maintaining and developing android apps. but my main expertise in this field is Android SDK, Gradle, modularization, Kotlin, compose, concurrency, dependency injection, optimization, and services.
-  
+<p align="left">I’m an Android Engineer with over 8 years of experience. my main expertise in this field is Android SDK, Gradle, modularization, Kotlin, compose, concurrency, dependency injection, optimization, and services.
+
 I am an active open-source contributor who built an analytics plugin for the Gradle build system that is used by top tech companies.
-  
+
 I have worked in various companies with different team sizes and created many apps, such as the parental control app, map area calculator app, video stream app, and shopping app.
-  
+
 In addition, working as a team member and interacting with colleagues is one of my interests.
 </p>
 
