@@ -1,11 +1,8 @@
 <h1 align="left">Hey 👋, I'm Mehdi</h1>
-<p align="left">I’m an Android Engineer with over 8 years of experience. my main expertise in this field is Android SDK, Gradle, modularization, Kotlin, compose, concurrency, dependency injection, optimization, and services.
-
-I am an active open-source contributor who built an analytics plugin for the Gradle build system that is used by top tech companies.
-
-I have worked in various companies with different team sizes and created many apps, such as the parental control app, map area calculator app, video stream app, and shopping app.
-
-In addition, working as a team member and interacting with colleagues is one of my interests.
+<p align="left">I am an experienced Android Engineer with over 9 years of experience specializing in Android SDK, Gradle, modularization, Kotlin, Jetpack Compose, concurrency management, dependency injection, performance optimization, and service integration.
+As an active contributor to the open-source community, I have developed an analytics plugin for the Gradle build system that is widely adopted by leading tech companies.
+Throughout my career, I have successfully worked in diverse organizations with varying team sizes, delivering outstanding results. My portfolio includes the development of notable applications, such as a parental control app, map area calculator app, video streaming app, and shopping app.
+Collaboration and teamwork are integral to my work style, and I thoroughly enjoy engaging with colleagues to foster a productive and innovative environment.
 </p>
 
 📫 Reach me via **mehdi.janbarari@outlook.com**
