@@ -19,11 +19,6 @@ Collaboration and teamwork are integral to my work style, and I thoroughly enjoy
 <br/>
 <a href="https://github.com/janbarari/KEvent" target="_blank"><strong>KEvent</strong> - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
 <br/>
-  <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic RecyclerView</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
-<br/>
-<a href="https://github.com/janbarari/JupiterSlider"><strong>Jupiter Slider</strong> - An awesome auto slider</a>
-
-<br/>
 
 <h3 aligh="left">Articles</h3>
 <a href="https://medium.com/better-programming/introducing-decoupled-mvi-approach-for-android-in-2023-b93e4a16fb1b">Introducing decoupled MVI approach for Android in 2023</a>
