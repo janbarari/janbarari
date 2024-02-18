@@ -13,11 +13,11 @@ Collaboration and teamwork are integral to my work style, and I thoroughly enjoy
 <br/>
 <h3 align="left">Favorite Repositories</h3>
 <a href="https://github.com/janbarari/gradle-analytics-plugin" target="_blank"><strong>Gradle Analytics Plugin</strong> - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.</a>
-
-<a href="https://github.com/janbarari/NooraEye" target="_blank"><strong>NooraEye</strong> - A seamlessly measures memory usage, execution time, and provides memory leak information for your Kotlin algorithms and code blocks.</a>
-<br/>
+<br/><br/>
+<a href="https://github.com/janbarari/NooraEye" target="_blank"><strong>NooraEye</strong> - seamlessly measures memory usage, CPU usage, IO usage, execution time, and provides memory leak information for your Kotlin/Java algorithms and code blocks.</a>
+<br/><br/>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
-<br/>
+<br/><br/>
 <a href="https://github.com/janbarari/KEvent" target="_blank"><strong>KEvent</strong> - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
 <br/>
 
