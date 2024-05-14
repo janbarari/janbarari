@@ -15,8 +15,6 @@ Collaboration and teamwork are integral to my work style, and I thoroughly enjoy
 <a href="https://github.com/janbarari/gradle-analytics-plugin" target="_blank"><strong>Gradle Analytics Plugin</strong> - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.</a>
 <br/><br/>
 <a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
-<br/><br/>
-<a href="https://github.com/janbarari/NooraEye" target="_blank"><strong>NooraEye</strong> - NooraEye seamlessly measures memory usage, CPU usage, IO usage, execution time, and provides memory leak information for your Kotlin/Java algorithms and code blocks.
 
 </a>
 <br/><br/>
