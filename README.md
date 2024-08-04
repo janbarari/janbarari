@@ -29,6 +29,9 @@ Collaboration and teamwork are integral to my work style, and I enjoy engaging w
 <br/><br/>
 <a href="https://medium.com/@janbarari/supercharge-your-builds-with-the-gradle-analytics-plugin-20db70d7f311">Supercharge Your Builds with the Gradle Analytics Plugin</a>
 <br/>
+<br/>
+<a href="https://medium.com/@janbarari/introducing-runparallel-and-withparallel-for-enhanced-concurrency-in-kotlin-fbdfc11dbdac">Introducing `runParallel` and `withParallel` for Enhanced Concurrency in Kotlin</a>
+<br/><br/>
 <p><strong><h3>Github Visitor Count</h3></strong>
 <img src="https://profile-counter.glitch.me/janbarari/count.svg" />
 </p>
