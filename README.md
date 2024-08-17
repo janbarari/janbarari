@@ -12,6 +12,7 @@ Collaboration and teamwork are integral to my work style, and I enjoy engaging w
 <p align="left">
 <a href="https://linkedin.com/in/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/mjanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
+<a href="https://x.com/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
 
 <br/>
 <br/>
