@@ -15,6 +15,7 @@ Collaboration and teamwork are integral to my work style, and I enjoy engaging w
 <a href="https://telegram.me/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="40" /></a>
 
 <br/>
+<h3 align="left"><a href="https://github.com/janbarari/janbarari/blob/main/mehdi-janbarari-resume.pdf">Download My CV</a></h3>
 <br/>
 <h3 align="left">Favorite Repositories</h3>
 <a href="https://github.com/janbarari/gradle-analytics-plugin" target="_blank"><strong>Gradle Analytics Plugin</strong> - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.</a>
