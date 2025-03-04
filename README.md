@@ -1,13 +1,3 @@
-<h1 align="left">Hey 👋, I'm Mehdi</h1>
-<p align="left">I am an experienced Android Engineer with over 11 years specializing in Android SDK, Gradle, modularization, Kotlin, Jetpack Compose, concurrency management, dependency injection, performance optimization, and service integration.
-
-As an active contributor to the open-source community, I developed an analytics plugin for the Gradle build system, which is widely adopted by leading tech companies.
-
-Throughout my career, I have successfully worked in diverse organizations with varying team sizes, consistently delivering outstanding results. My portfolio includes the development of notable applications such as a parental control app, map area calculator app, video streaming app, and shopping app.
-
-Collaboration and teamwork are integral to my work style, and I enjoy engaging with colleagues to foster a productive and innovative environment.
-</p>
-
 📫 Reach me via **mehdi.janbarari@outlook.com**
 <p align="left">
 <a href="https://linkedin.com/in/mehdijanbarari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
@@ -33,9 +23,6 @@ Collaboration and teamwork are integral to my work style, and I enjoy engaging w
 <br/>
 <a href="https://medium.com/@janbarari/introducing-runparallel-and-withparallel-for-enhanced-concurrency-in-kotlin-fbdfc11dbdac">Introducing `runParallel` and `withParallel` for Enhanced Concurrency in Kotlin</a>
 <br/><br/>
-<p><strong><h3>Github Visitor Count</h3></strong>
-<img src="https://profile-counter.glitch.me/janbarari/count.svg" />
-</p>
 
 <p><strong><h3>Stats</h3></strong>
 <div class="row">
